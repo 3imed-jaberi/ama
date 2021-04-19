@@ -7,7 +7,7 @@
 
 I get a lot of questions by social media and email but responding to an email only helps one person. This way anyone can read the answer.
 
-**If you'd rather not ask your question publicly**, send me an [email][gmail-email] and I can post the question anonymously for you.
+**If you'd rather not ask your question publicly**, send me an [email][hotmail-email] and I can post the question anonymously for you.
 
 Subscribe for updates by [watching the repo][repo-subscription].
 
@@ -28,7 +28,7 @@ Anything means *anything*. Personal questions. Money. Work. Life. Code. Whatever
 
 #### Other contact mediums
 
-I can also be reached on [Instagram][my-instagram], [Twitter][my-twitter] and [email][gmail-email], but I prefer [this medium][ask-a-question].
+I can also be reached on [Instagram][my-instagram], [Twitter][my-twitter] and [email][hotmail-email], but I prefer [this medium][ask-a-question].
 
 
 ### Links
@@ -42,7 +42,7 @@ I can also be reached on [Instagram][my-instagram], [Twitter][my-twitter] and [e
 <!-- Links 🪁 -->
 [ask-a-question]: https://github.com/3imed-jaberi/ama/issues/new
 [read-answered-questions]: https://github.com/3imed-jaberi/ama/issues?q=is%3Aissue+is%3Aclosed
-[gmail-email]: mailto:3imed.jaberi@gmail.com
+[hotmail-email]: mailto:imed_jebari@hotmail.fr
 [repo-subscription]: https://github.com/3imed-jaberi/ama/subscription
 [my-instagram]: https://www.instagram.com/3imed_jaberi
 [my-twitter]: https://twitter.com/3imed_jaberi
